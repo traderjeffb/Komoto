@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\GoldBadge\Birdman_game\Gold_Badge_Projects\Gold_Badge_Projects\obj\Debug\KOMOTO CAFE.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\Birdman_game\Gold_Badge_Projects\Gold_Badge_Projects\obj\Debug\KOMOTO CAFE.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\Birdman_game\Gold_Badge_Projects\Gold_Badge_Projects\bin\Debug\Gold_Badge_Projects.exe.config
+C:\ElevenFiftyProjects\GoldBadge\Birdman_game\Gold_Badge_Projects\Gold_Badge_Projects\bin\Debug\Gold_Badge_Projects.exe
+C:\ElevenFiftyProjects\GoldBadge\Birdman_game\Gold_Badge_Projects\Gold_Badge_Projects\bin\Debug\Gold_Badge_Projects.pdb
+C:\ElevenFiftyProjects\GoldBadge\Birdman_game\Gold_Badge_Projects\Gold_Badge_Projects\obj\Debug\Gold_Badge_Projects.exe
+C:\ElevenFiftyProjects\GoldBadge\Birdman_game\Gold_Badge_Projects\Gold_Badge_Projects\obj\Debug\Gold_Badge_Projects.pdb
